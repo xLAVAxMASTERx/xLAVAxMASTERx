@@ -134,7 +134,7 @@ const showCards = () => {
 document.addEventListener("DOMContentLoaded", showCards);
 
 /* Badges*/
-
+/*
 const bagdes = document.querySelector(".badges");
 const badgesection = [
   {
