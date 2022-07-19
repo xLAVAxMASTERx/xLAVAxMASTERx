@@ -5,11 +5,11 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Machine Learning Specialization",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://www.coursera.org/specializations/machine-learning-introduction?",
   },
-  {
+ /* {
     title: "Cryptography",
     cardImage: "assets/images/education-page/udemy.svg",
     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
@@ -65,7 +65,7 @@ const moocscards = [
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink:
       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
-  },
+  },*/
 ];
 
 const experience = [
