@@ -124,7 +124,7 @@ const mentor = [
   },
   {
     title: "Google Hash Code 2022",
-    subtitle: "Team Member",
+    subtitle: "Team Leader",
     image: "assets/images/experience-page/hash.png",
     desp: "Solving the given problem within time",
   },
