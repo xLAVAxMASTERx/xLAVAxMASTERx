@@ -4,27 +4,27 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
-  {
-    title: "Software Development Intern",
+/* {
+    title: "Technical Team Member",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
+    place: "Enigma",
+    time: "(December, 2021 - present)",
     desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
-  },
+  },*/
   {
-    title: "Student Developer",
+    title: "Technical Team Member",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "Enigma CS CLUb",
+    time: "(Nov 2021 -present)",
+    desp: "<li>Worked as technical team member.</li><li>Worked on the back-end of the club.</li>",
   },
-  {
+ /* {
     title: "Research Intern",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "IIT, Bombay",
     time: "(Dec, 19 - Jan, 20)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
-  },
+  },*/
 ];
 
 const showCards2 = () => {
@@ -62,12 +62,12 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
+    title: "Hacktoberfest 2021",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Contributing to Open Source community",
   },
-  {
+ /* {
     title: "StudentCode-in 2020",
     cardImage: "assets/images/experience-page/2.jpg",
     description:
@@ -84,7 +84,7 @@ const volunteershipcards = [
     cardImage: "assets/images/experience-page/4.jpg",
     description:
       "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
-  },
+  },*/
 ];
 
 const showCards = () => {
@@ -111,24 +111,24 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "The Uplift Project",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
+    title: "Smart India Hackathon 2022",
+    subtitle: "Team Member",
+    image: "assets/images/experience-page/sih.png",
+    desp: "Working on the backend of the website using CNN to recognize settlements areas in major cities",
   },
   {
-    title: "ULHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/ulhacks.png",
-    desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
+    title: "Flipkart Grid 4.0",
+    subtitle: "Team Leader ",
+    image: "assets/images/experience-page/fhacks.jpg",
+    desp: "3 round Hackathon to solve a problem statement given by Flipkart",
   },
   {
-    title: "WaffleHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/wafflehacks.png",
-    desp: "WaffleHacks 2021 is an upcoming 48-hour student-organized hackathon with an aim to bring technical solutions to local communities and small businesses.",
+    title: "Google Hash Code 2022",
+    subtitle: "Team Member",
+    image: "assets/images/experience-page/hash.png",
+    desp: "Solving the given problem within time",
   },
-  {
+  /*{
     title: "Elevate Tech",
     subtitle: "Judge",
     image: "assets/images/experience-page/elevate.png",
@@ -199,7 +199,7 @@ const mentor = [
     subtitle: "Judge",
     image: "assets/images/experience-page/nhacks.png",
     desp: "NHacks VI was a hackathon that aimed to encourage students everywhere to develop skills in computer science by creating tangible products that they're proud of. It initially started as Michigan's largest high school hackathon.",
-  },
+  },*/
 ];
 
 const showCards3 = () => {

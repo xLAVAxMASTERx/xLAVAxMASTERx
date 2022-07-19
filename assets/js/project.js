@@ -2,7 +2,7 @@ AOS.init();
 /* Project Cards */
 
 const projectcards = document.querySelector(".projectcards");
-
+/*
 // Array of object for projects
 const projects = [
   {
@@ -161,3 +161,4 @@ function myFunction() {
     }
   }
 }
+*/
