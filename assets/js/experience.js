@@ -114,7 +114,7 @@ const mentor = [
     title: "Smart India Hackathon 2022",
     subtitle: "Team Member",
     image: "assets/images/experience-page/sih.png",
-    desp: "Working on the backend of the website using CNN to recognize settlements areas in major cities",
+    desp: "Working on the backend of the website using CNN to recognize settlement areas in major cities",
   },
   {
     title: "Flipkart Grid 4.0",
