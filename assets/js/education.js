@@ -7,24 +7,24 @@ const moocscards = [
   {
     title: "Machine Learning Specialization",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/specializations/machine-learning-introduction?",
+    moocLink: "https://coursera.org/share/d1eb1dfef79c27d54b4cbf71035403a4",
+  },
+  {
+    title: "Unsupervised Learning, Recommenders, Reinforcement Learning",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://coursera.org/share/a5f792a612883cee1ef9061741786c90",
+  },
+  {
+    title: "Advanced Learning Algorithms",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://coursera.org/share/fd11c5aad524d252388a8d8b967ea2a2",
+  },
+  {
+    title: "Supervised Machine Learning: Regression and Classification",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://coursera.org/share/7e5ad6719927f636aba1e90b03757c70",
   },
  /* {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-  },
-  {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
     title: "Introduction to CSS 3",
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
