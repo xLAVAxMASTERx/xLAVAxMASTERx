@@ -4,13 +4,13 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
-/* {
-    title: "Technical Team Member",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Enigma",
-    time: "(December, 2021 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
-  },*/
+ {
+    title: "Intern",
+    cardImage: "assets/images/experience-page/mapmyindia.png",
+    place: "MapMyIndia,New Delhi",
+    time: "(June, 2023 - present)",
+    desp: "<li>Working on Backend mapping systems and web jsp mapping</li> ",
+  },
   {
     title: "Technical Team Member",
     cardImage: "assets/images/experience-page/gsoc.png",
