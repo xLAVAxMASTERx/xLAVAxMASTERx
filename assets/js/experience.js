@@ -76,6 +76,12 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
+    title: "Hacktoberfest 2022",
+    cardImage: "assets/images/experience-page/1.jpg",
+    description:
+      "Contributing to Open Source community",
+  },
+  {
     title: "Hacktoberfest 2021",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
@@ -124,6 +130,12 @@ document.addEventListener("DOMContentLoaded", showCards);
 
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
+  {
+    title: "Smart India Hackathon 2023 Winner",
+    subtitle: "Team Member",
+    image: "assets/images/experience-page/sih.png",
+    desp: "Working on the backend of the website using CNN to recognize settlement areas in major cities",
+  },
   {
     title: "Smart India Hackathon 2022",
     subtitle: "Team Member",
