@@ -4,27 +4,41 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
+  {
+    title: "AI/ML Engineer Intern",
+    cardImage: "assets/images/experience-page/gsoc.png",
+    place: "Enigma CS CLUb",
+    time: "(June 2023 -present)",
+    desp: "<li>Head of all Committees and Head of Machine Learning Team.</li>",
+  },
+  {
+    title: "Committees Head and Machine Leanering Team Lead",
+    cardImage: "assets/images/experience-page/gsoc.png",
+    place: "Enigma CS CLUb",
+    time: "(June 2023 -July 2024)",
+    desp: "<li>Head of all Committees and Head of Machine Learning Team.</li>",
+  },
  {
-    title: "Intern",
+    title: "Software Engineer Intern",
     cardImage: "assets/images/experience-page/mapmyindia.png",
     place: "MapMyIndia,New Delhi",
     time: "(June, 2023 - present)",
     desp: "<li>Working on Backend mapping systems and web jsp mapping</li> ",
   },
   {
-    title: "Technical Team Member",
+    title: "Technical Team Member and Project Team Member",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Enigma CS CLUb",
-    time: "(Nov 2021 -present)",
-    desp: "<li>Worked as technical team member.</li><li>Worked on the back-end of the club.</li>",
+    time: "(Oct 2021 -June 2023)",
+    desp: "<li>Worked as technical team member and Project team member.</li><li>Worked on the back-end of the club.</li>",
   },
- /* {
+  {
     title: "Research Intern",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
-  },*/
+    place: "IIT, Hyderabad",
+    time: "(Dec 22 - Feb, 23)",
+    desp: "<li></li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+  },
 ];
 
 const showCards2 = () => {
