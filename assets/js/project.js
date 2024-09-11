@@ -22,7 +22,7 @@ const projects = [
   },
   {
     title: "Motion Amplification and Vibrational Analysis",
-    cardImage: "assets/images/project-page/sih2023.jpeg",
+    cardImage: "assets/images/project-page/image.png",
     description: "Smart india Hackathon 2023 Winning project ",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
