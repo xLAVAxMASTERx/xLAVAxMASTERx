@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/itc.jpeg",
     place: "ITC INFOTECH, Bangalore",
     time: "(June 2024 -August 2024)",
-    desp: "<li>Head of all Committees and Head of Machine Learning Team.</li>",
+    desp: "<li>ASG Team.</li>",
   },
   {
     title: "Committees Head and Machine Learning Team Lead",
