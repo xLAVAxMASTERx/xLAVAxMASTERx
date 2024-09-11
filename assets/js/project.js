@@ -14,9 +14,9 @@ const projects = [
   },
   {
     title: "Hierarchial Ensemble of Autoencoder to Denoise Combination Of Noise",
-    cardImage: "assets/images/project-page/chess.jpg",
+    cardImage: "assets/images/project-page/paper1.jpg",
     description: "A uniform cost search based Autoencoder tree structure which uses an ensemble of autoencoder to denoise random sequences of Noise , Published in ICPR 2024",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/paper1.png",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
   },
