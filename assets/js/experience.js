@@ -6,13 +6,13 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "AI/ML Engineer Intern",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Enigma CS CLUb",
-    time: "(June 2023 -present)",
+    cardImage: "assets/images/experience-page/itc.jpeg",
+    place: "ITC INFOTECH, Bangalore",
+    time: "(June 2024 -August 2024)",
     desp: "<li>Head of all Committees and Head of Machine Learning Team.</li>",
   },
   {
-    title: "Committees Head and Machine Leanering Team Lead",
+    title: "Committees Head and Machine Learning Team Lead",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Enigma CS CLUb",
     time: "(June 2023 -July 2024)",
@@ -22,7 +22,7 @@ const exp = [
     title: "Software Engineer Intern",
     cardImage: "assets/images/experience-page/mapmyindia.png",
     place: "MapMyIndia,New Delhi",
-    time: "(June, 2023 - present)",
+    time: "(June, 2023 - August 2023)",
     desp: "<li>Working on Backend mapping systems and web jsp mapping</li> ",
   },
   {
@@ -34,10 +34,10 @@ const exp = [
   },
   {
     title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/iith.png",
     place: "IIT, Hyderabad",
     time: "(Dec 22 - Feb, 23)",
-    desp: "<li></li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li></li>",
   },
 ];
 
@@ -76,8 +76,14 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
+    title: "Hacktoberfest 2023",
+    cardImage: "assets/images/experience-page/hacktoberfest.jpeg",
+    description:
+      "Contributing to Open Source community",
+  },
+  {
     title: "Hacktoberfest 2022",
-    cardImage: "assets/images/experience-page/1.jpg",
+    cardImage: "assets/images/experience-page/hack22.jpeg",
     description:
       "Contributing to Open Source community",
   },
@@ -133,7 +139,7 @@ const mentor = [
   {
     title: "Smart India Hackathon 2023 Winner",
     subtitle: "Team Member",
-    image: "assets/images/experience-page/sih.png",
+    image: "assets/images/experience-page/sih2023.jpeg",
     desp: "Working on the backend of the website using CNN to recognize settlement areas in major cities",
   },
   {

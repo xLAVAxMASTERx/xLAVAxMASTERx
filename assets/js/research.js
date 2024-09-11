@@ -1,26 +1,26 @@
 /*Research Details Table*/
-/*
+
 const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "Hierarchical Ensemble of AutoEncoder for Restoration of Images Corrupted by Cumulative Combination of Noise",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "Sayarnil Ganguly, Sanjana Katham Reddy,Sanyam Agrawal,Soumen Sinha,Rahul Roy",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "27th International Conference on Pattern Recognition (ICPR)",
+    researchYr: 2024,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "assets/images/research-page/paper1.png",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "",
     absbox: "absPopup1",
   },
-
+/*
   {
     title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
     authors:
@@ -145,6 +145,7 @@ const research = [
       "This is currently left empty and this can be considered as a dummy data 8",
     absbox: "absPopup8",
   },
+*/
 ];
 AOS.init();
 const fillData = () => {
@@ -203,4 +204,3 @@ const fillData = () => {
   researchTable.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", fillData);
-*/
